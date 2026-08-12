@@ -1,7 +1,9 @@
 ```md
 # SQL Pract — Data Warehouse y Análisis de Ventas
 
-Proyecto de diseño y análisis de un **Data Warehouse de ventas**. Incluye la creación de una base de datos dimensional en MySQL, generación de datos sintéticos y análisis con Python, SQL y Machine Learning.
+Proyecto de diseño y análisis de un **Data Warehouse de ventas**. Incluye la creación de una base
+de datos dimensional en MySQL, generación de datos sintéticos y análisis
+con Python, SQL y Machine Learning.
 
 ## Características
 
